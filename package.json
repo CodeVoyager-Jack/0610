@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "jQuery": "^1.7.4"
+  },
+  "name": "0610",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeVoyager-Jack/0610.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeVoyager-Jack/0610/issues"
+  },
+  "homepage": "https://github.com/CodeVoyager-Jack/0610#readme",
+  "description": ""
+}
